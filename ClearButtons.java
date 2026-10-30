@@ -8,3 +8,4 @@ btnClear.addActionListener(e -> {
     txtCourse.setText("");
     txtYear.setText("");
 });
+
